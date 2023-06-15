@@ -1,5 +1,9 @@
 Additional files can be downloaded from: https://drive.google.com/drive/folders/1fkawyNc0yravluKDEuDmqLwlTPU5UhW_?usp=sharing
 
+Million playlist dataset is not included since the file size is too large.
+
+To run the app, after installing the libraries in requirements.txt, simply run streamlit run musicapp.py
+
 # Smart Music Recommendations
 
 ## Project Description
