@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+streamlit-searchbox
+numpy
+pickle
+gensim
+tqdm
