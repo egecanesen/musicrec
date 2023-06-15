@@ -1,4 +1,4 @@
-# Smart Music Recommendations
+#Smart Music Recommendations
 
 ## Project Description
 
